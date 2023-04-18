@@ -24,7 +24,7 @@
 }
 
 .backgroundimage{
-  background-image: url('Images/welcomepic2.jpg');
+  background-image: url('welcomepic2.jpg');
   background-size: cover; /* man sieht das ganze Bild in dieser Höhe und Breite*/
   background-repeat: no-repeat; /*damit sich der Hintergrund nicht wiederholt*/
   height: 100vh;/*vh = view port height*/
@@ -49,7 +49,7 @@
 }
 
 .backgroundimage2{
-  background-image: url('Projects/images/tbz.jpg');
+  background-image: url('Projects/tbz.jpg');
   background-size: cover; /* man sieht das ganze Bild in dieser Höhe und Breite*/
   background-repeat: no-repeat; /*damit sich der Hintergrund nicht wiederholt*/
   height: 100vh;/*vh = view port height*/
